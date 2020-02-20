@@ -28,6 +28,7 @@
 		479C651823FEAEB6004A88C8 /* InteractiveNavigationTransitioningMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractiveNavigationTransitioningMath.swift; sourceTree = "<group>"; };
 		479C651A23FEAEDB004A88C8 /* InteractiveModalTransitionDriver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractiveModalTransitionDriver.swift; sourceTree = "<group>"; };
 		479C651C23FEAF03004A88C8 /* InteractiveNavigationTransitionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractiveNavigationTransitionController.swift; sourceTree = "<group>"; };
+		479C651E23FEB458004A88C8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		479C64F823FEAE3A004A88C8 = {
 			isa = PBXGroup;
 			children = (
+				479C651E23FEB458004A88C8 /* README.md */,
 				479C650323FEAE3A004A88C8 /* InteractiveNavigationControllerTransition+UIViewPropertyAnimator */,
 				479C650223FEAE3A004A88C8 /* Products */,
 			);
